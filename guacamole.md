@@ -3,4 +3,4 @@
 - lemon
 - salt
 # instructions
-change avocado in a bowl
+- peel avocado and put them in a bowl
