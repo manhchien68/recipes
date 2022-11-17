@@ -3,4 +3,4 @@
 - lemon
 - salt
 # instructions
-put one avocado in a bowl
+change avocado in a bowl
