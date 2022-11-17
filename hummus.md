@@ -1,4 +1,5 @@
 # Ingredients
-dfass
-adsfdsf
-sdfdsfsa
+chickpeas
+lemon
+olive oil
+salt
